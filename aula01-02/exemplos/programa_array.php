@@ -1,5 +1,5 @@
 <html><head><title>Aulas de PHP</title></head>
-<body bgcolor="yellow">
+<body bgcolor="#c6a0f6">
 <H1> Conhecendo Linguagem PHP</H1>
 <BR><BR>
 <?php
