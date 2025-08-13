@@ -1,0 +1,27 @@
+Vamos desenvolver uma aplicação simples que consiste em armazenar e consulta dados simples de veiculo, tendo os seguintes atributos
+
+id 
+modelo
+ano
+placa
+cadastro
+
+REGRAS DE NEGÓCIO
+o campo id deve ser de preenchimento automático e exclusivo (chave primária);
+campo modelo tipo alfanumérico tamanho máximo 30 characteres;
+campo ano tipo inteiro tamanho 4, exemplo 2010;
+placa de deve conter no máximo 10 characteres, somente letras e números e ser único (não aceitar duplicidade);
+cadastra receber data do cadastro, podendo ser preenchimento automático;
+
+
+TESTE DE QUALIDADE - Tela inicial e tela cadastro
+-- TELA INICIAL
+Verificar layout (texto, posição);
+Verificar links
+
+-- TELA CADASTRO
+Verificar testes inserção;
+verificar índices (chave primárria);
+verificar chave única campo placa;
+Verificar botões;
+
