@@ -1,0 +1,23 @@
+FEATURES 3 - (PADRONIZAÇÃO E FORMATAÇÃO)
+
+
+Manter configurações e ajuste em CSS em arquivo externo
+
+
+OBSERVAÇÃO
+Exibir a data atual formato DD-MM-AAAA em todas as telas (páginas) - Uso do javascript
+
+permitir personalização do Front-End (uso do CSS)
+Alteração da cor do body;
+
+Ajuste do tamanho da fonte	a) Sendo opção ajuste Título; 
+					b) Texto comum (páragrafo comum)
+
+
+
+
+
+
+DATA ENTREGA: 27/08
+ATÉ AS 15:00
+LOCAL TEAMS
